@@ -12,6 +12,7 @@ permalink: /resume/
 学历 | 2012.9-2015.7毕业 福州闽江学院 web程序应用专业 （英语水平四级）
 工作年限 | 10年
 联系方式 | 电话 [15260060705](tel:15260060705)  微信 fewspider  邮箱 [fewspider@gmail.com](mailto:fewspider@gmail.com)
+开源方面 | [https://github.com/ohcrfpv](https://github.com/ohcrfpv)
 
 ### 求职意向
 
@@ -73,11 +74,6 @@ permalink: /resume/
 时间 | 2016.7-2020.7
 公司名称 | 厦门华游科技有限公司（前端架构师）
 工作内容 | 有带几个新人，从零基础到可以独立完成项目
-
-
-### 开源方面
-
-github主页 | (https://github.com/ohcrfpv)[https://github.com/ohcrfpv]
 
 --------------------------------------------------------------------------------
 
